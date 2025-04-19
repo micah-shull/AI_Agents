@@ -56,7 +56,7 @@ This makes them ideal for tasks involving complex decisions, unstructured data, 
 
 ## 🧠 Based On: OpenAI’s Agent Design Guide
 
-This repo is guided by [OpenAI’s Practical Guide to Building Agents (2024)](https://openai.com/blog/practical-guide-to-building-agents), which outlines:
+This repo is guided by [OpenAI’s Practical Guide to Building Agents (2024)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf), which outlines:
 
 - When and why to use agents
 - Core design principles (Model, Tools, Instructions)
