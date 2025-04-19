@@ -1,6 +1,6 @@
 # 🧠 AI_Agents — Learning How to Build AI Agents
 
-This project is a hands-on exploration of how to build and orchestrate intelligent AI agents using modern tools like Hugging Face, Python, and LLMs. Inspired by OpenAI’s [Practical Guide to Building Agents](https://openai.com/blog/practical-guide-to-building-agents), this repo documents my learning journey from simple agent loops to more complex multi-agent systems.
+This project is a hands-on exploration of how to build and orchestrate intelligent AI agents using modern tools like Hugging Face, Python, and LLMs. Inspired by OpenAI’s [Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf), this repo documents my learning journey from simple agent loops to more complex multi-agent systems.
 
 ---
 
