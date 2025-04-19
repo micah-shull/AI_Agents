@@ -67,6 +67,11 @@ All examples here follow those foundational patterns, adapted to open-source too
 
 ---
 
+> ### Challenges of Building AI Agents
+> While AI agents appear simple on the surface, building robust and reliable ones is hard. LLMs are inherently fuzzy — they don’t return strict formats, may hallucinate tools, and require careful prompt design. Even when structured examples are given, responses may deviate or be incomplete. Agents must be built to expect failure, validate every output, and fall back gracefully when things go wrong. This project highlights these challenges, and the work required to move from a simple chatbot to a real, resilient AI system.
+
+---
+
 ## 🚀 Getting Started
 
 To run the notebooks:
