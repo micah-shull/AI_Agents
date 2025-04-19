@@ -1,0 +1,26 @@
+
+
+
+## 🧾 Summary: A Practical Guide to Building Agents
+
+### 🔹 What Is an Agent?
+An **agent** is a system that performs multi-step tasks on your behalf using an LLM. Unlike traditional automation or simple chatbots, agents can:
+- **Independently manage workflows**
+- **Make decisions**, detect when a task is complete, and handle errors or unexpected conditions
+- **Use tools dynamically** to gather data and take action
+- Operate within **guardrails** to ensure safe and predictable behavior
+
+> 🧠 **Key Idea**: Agents don’t just assist—they act *on your behalf* with autonomy.
+
+---
+
+### 🔹 When Should You Build an Agent?
+Agents shine in workflows where traditional automation struggles:
+1. **Complex Decision-Making**: Context-aware tasks like refund approvals.
+2. **Hard-to-Maintain Rules**: Situations with complicated, brittle rule systems (e.g., security reviews).
+3. **Unstructured Data**: Tasks involving language understanding, document analysis, or conversational input (e.g., insurance claims).
+
+Before building, ask: *Is the workflow too ambiguous, dynamic, or context-rich for rule-based automation?*
+
+> ✅ If yes — an agent may be the better solution.
+
