@@ -1,4 +1,4 @@
-# 🧠 AI_Agents — Learning How to Build AI Agents
+# 🧠 AI Agents — Learning How to Build AI Agents
 
 This project is a hands-on exploration of how to build and orchestrate intelligent AI agents using modern tools like Hugging Face, Python, and LLMs. Inspired by OpenAI’s [Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf), this repo documents my learning journey from simple agent loops to more complex multi-agent systems.
 
@@ -70,13 +70,4 @@ All examples here follow those foundational patterns, adapted to open-source too
 > ### Challenges of Building AI Agents
 > While AI agents appear simple on the surface, building robust and reliable ones is hard. LLMs are inherently fuzzy — they don’t return strict formats, may hallucinate tools, and require careful prompt design. Even when structured examples are given, responses may deviate or be incomplete. Agents must be built to expect failure, validate every output, and fall back gracefully when things go wrong. This project highlights these challenges, and the work required to move from a simple chatbot to a real, resilient AI system.
 
----
 
-## 🚀 Getting Started
-
-To run the notebooks:
-
-```bash
-git clone https://github.com/micah-shull/AI_Agents.git
-cd AI_Agents
-pip install transformers
