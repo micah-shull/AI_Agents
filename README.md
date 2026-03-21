@@ -3,7 +3,46 @@
 **Building production-ready orchestrator agents with proven methodologies**
 
 ---
+## 🧠 What I Build Today
 
+I design and build **deterministic executive intelligence systems**.
+
+These are not dashboards.
+They are not black-box AI models.
+
+They are systems that answer:
+
+> **What is changing, why it matters, and what leadership should do next.**
+
+### Key Characteristics
+
+* **Deterministic logic** — transparent, configurable, auditable
+* **Trajectory-based analysis** — measures change over time, not just current state
+* **Structured executive output** — verdict, key signals, time sensitivity, recommendations, executive ask
+* **Full-system validation** — unit, node, and integration testing
+
+---
+
+### Flagship Example: Workforce Development Orchestrator v3
+
+A production-ready system that determines:
+
+* whether the workforce is improving or falling behind
+* whether automation is outpacing reskilling
+* where risk is concentrated
+* what actions leadership should take immediately
+
+This system demonstrates:
+
+* configuration-driven intelligence (no hidden logic)
+* mixed-signal detection (real-world complexity)
+* adaptation gap modeling (automation vs reskilling)
+* executive-grade reporting
+* full pipeline validation
+
+> This represents the culmination of my orchestrator development methodology.
+
+---
 ## 🎯 What I Bring to the Table
 
 I specialize in building **reliable, production-ready orchestrator agents** using a systematic, validated approach. Unlike typical agent development that relies on trial-and-error, I follow a proven methodology that delivers consistent, high-quality results.
